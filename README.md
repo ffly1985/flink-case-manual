@@ -1,2 +1,2 @@
-# flink-case-manual
-Flink用用案例参考手册
+# Flink应用案例参考手册
+按照行业分类整理Flink的应用案例，便于各位大数据从业者博览众长。
